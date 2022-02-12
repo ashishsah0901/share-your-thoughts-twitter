@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "prod": "music-player-d0824",
+    "dev": "twitter-dev-c0e3c"
+  }
+}
