@@ -12,6 +12,8 @@
 
 .post_body > img {
     border-radius: 20px;
+    max-width: 40vw;
+    object-fit: contain;
 }
 
 .post_body > p {
